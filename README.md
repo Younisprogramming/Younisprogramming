@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Younisprogramming
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently full stack 
 - 💞️ I’m looking to collaborate on knowledge
 - 📫 How to reach me ...
 
